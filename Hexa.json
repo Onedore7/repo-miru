@@ -3,6 +3,6 @@
     "description": "Hexated Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/miru-project/repo/main/.github/workflows/build.yml"
+      "https://raw.githubusercontent.com/Onedore7/repo-miru/main/index.json"
     ]
   }

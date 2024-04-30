@@ -1,4 +1,8 @@
-"pluginLists": [
-      "https://raw.githubusercontent.com/Onedore7/repo-miru/main/.github/workflows/build.yml"
+{
+    "name": "Hexated providers repository (OnedorePPK)",
+    "description": "Hexated Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json"
     ]
   }
